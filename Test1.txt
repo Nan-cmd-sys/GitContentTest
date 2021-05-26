@@ -1,1 +1,17 @@
 This is second github file
+This is second github file
+This is second github file
+This is second github file
+This is second github file
+This is second github file
+This is second github file
+git config username
+git config email
+git clone
+add new doc 
+git add 
+git status
+git commit
+git push 
+
+
